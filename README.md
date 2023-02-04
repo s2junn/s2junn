@@ -162,4 +162,7 @@ more icons..
 
 ---
 
-![s2junn GitHub Stats](https://server.dooboo.io/github-stats-advanced/s2junn)
+![s2junn's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2junn&show_icons=true&theme-radical)
+
+---
+
